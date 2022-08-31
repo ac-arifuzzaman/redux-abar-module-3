@@ -7,6 +7,6 @@ export const initialState = [
   {
     id: 2,
     text: "Learn Redux js",
-    completed: true,
+    completed: false,
   },
 ];
